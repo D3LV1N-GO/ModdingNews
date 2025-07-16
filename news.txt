@@ -1,8 +1,7 @@
-<color=#FF5500>✦ ━━━━━━━ ✦ ━━━━━━━━━━━━━ ✦</color>
 <color=#00AAFF>GOREBOX MODDING REBORN</color>
-<color=#FF5500>✦ ━━━━━━━ ✦ ━━━━━━━ ✦</color>
+<color=#FF5500>▰▰▰▰▰▰▰▰▰▰</color>
 
 test
 
-<color=#55FFFF>⚙︎ Report bugs to our BOT: 
+<color=#55FFFF>• Report bugs to our BOT: 
 <color=#FF5555>@GoreBoxModding_Bot</color></color>
