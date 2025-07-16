@@ -1,5 +1,5 @@
-<color=#FF5500>✦ ━━━━━━━ ✦ ━━━━━━━ ✦</color>
-<color=#00AAFF>GORΞBOX MODDING RΞBORN</color>
+<color=#FF5500>✦ ━━━━━━━ ✦ ━━━━━━━━━━━━━ ✦</color>
+<color=#00AAFF>GOREBOX MODDING REBORN</color>
 <color=#FF5500>✦ ━━━━━━━ ✦ ━━━━━━━ ✦</color>
 
 test
