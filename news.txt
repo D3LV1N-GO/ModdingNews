@@ -1,4 +1,4 @@
-I did get an int ID of the weapon in the player's hands, now I'm going to make even more jokes, I plan to get almost all the information about the player, by the type of whether he's in flight, what kind of tulgan mod he has, whether he's sitting
+I did get an int ID1 of the weapon in the player's hands, now I'm going to make even more jokes, I plan to get almost all the information about the player, by the type of whether he's in flight, what kind of tulgan mod he has, whether he's sitting
 <size=25><color=#FF5500>============================</color>
 <color=#e800e6>ㅤㅤㅤGOREBOX MODDING REBORNㅤㅤㅤ</color>
 <color=#FF5500>============================</color>
