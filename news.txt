@@ -1,7 +1,7 @@
 I did get an int ID of the weapon in the player's hands, now I'm going to make even more jokes, I plan to get almost all the information about the player, by the type of whether he's in flight, what kind of tulgan mod he has, whether he's sitting
-<color=#FF5500>========================================</color>
-<color=#e800e6>GOREBOX MODDING REBORN</color>
-<color=#FF5500>========================================</color>
+<color=#FF5500>============================</color>
+<color=#e800e6>   GOREBOX MODDING REBORN   </color>
+<color=#FF5500>============================</color>
 <color=#00FFAA>Thanks for downloading the modding! Start creating!</color>
 <color=#55FFFF>• Report bugs to our BOT: 
 <color=#FF5555>@GoreBoxModding_Bot</color></color>
