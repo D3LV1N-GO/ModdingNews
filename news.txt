@@ -1,5 +1,5 @@
 <color=#00AAFF>GOREBOX MODDING REBORN</color>
-<color=#FF5500>▬▬▬▬▬▬▬▬▬▬▬▬▬▬</color>
+<color=#FF5500>■══════════■══════════■</color>
 
 test
 
