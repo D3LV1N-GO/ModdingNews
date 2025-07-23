@@ -1,4 +1,4 @@
-<b>The modding has been updated for the new version of the game!</b><br>
+<b>Big update for working with players! Be sure to read the documentation!</b><br>
 <size=25><color=#FF5500>============================================</color>
 <color=#e800e6><align=center>GOREBOX MODDING REBORN</align></color>
 <color=#FF5500>============================================</color>
