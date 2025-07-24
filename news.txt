@@ -1,6 +1,6 @@
 <b>Big update for working with players! Be sure to read the documentation!</b><br>
 <b><size=25><color=#FF5500>====================================</color>
-<color=#e800e6><align=center><sprite=8> GOREBOX MODDING REBORN <sprite=8></align></color>
+<color=#e800e6><align=center>GOREBOX MODDING REBORN</align></color>
 <color=#FF5500>====================================</color>
 <color=#00FFAA><align=center>Thanks for downloading the modding! Start creating!</color>
 <color=#55FFFF>• Report bugs to our BOT:
