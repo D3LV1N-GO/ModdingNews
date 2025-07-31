@@ -1,4 +1,4 @@
-<b>Big update for working with players! Be sure to read the documentation!</b><br>
+<b>Minor update and bug fixing, I'm a bit tired so I'm taking a short break (there will still be modding updates for the new version)</b><br>
 <b><size=25><color=#FF5500>====================================</color>
 <color=#e800e6><align=center>GOREBOX MODDING REBORN</align></color>
 <color=#FF5500>====================================</color>
